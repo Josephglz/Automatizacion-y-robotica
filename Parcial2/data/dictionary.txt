@@ -1,0 +1,7 @@
+avanzar
+retroceder
+detenerse
+izquierda
+derecha
+encender
+apagar
